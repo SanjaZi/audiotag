@@ -46,6 +46,11 @@ h2 {
 }
 
 @media only screen and (max-width: 600px) {
+    
+     body {
+        overflow: initial;
+    }
+    
     .container {
       flex-direction: column;
     }
