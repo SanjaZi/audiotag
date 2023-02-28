@@ -6,7 +6,7 @@ body {
     margin: 0;
     width: 80%;
     height: 100vh;
-    height: calc(var(--vh, 1vh) * 100);
+    height: calc(100vh - 56px);
     background-image: linear-gradient(to bottom, #602a9b, #6a2ba9, #752cb7, #802cc5, #8c2bd3);
     font-family: "Poppins";
 }
