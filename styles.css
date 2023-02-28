@@ -53,6 +53,7 @@ h2 {
     
     .container {
       flex-direction: column;
+           height: calc(100vh - 56px);
     }
 
     .audio {
